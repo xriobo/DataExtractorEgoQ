@@ -3,62 +3,62 @@
     	"participants": [
 		{	"name": "Velon",
 			"summonerName": "Varo Lover",
-			"tagName": "4795",
+			"tagLine": "4795",
 			"rewardCandidate": true
 		},
 		{	"name": "Cesitar",
 			"summonerName": "Lord Caesar",
-			"tagName": "EUW",
+			"tagLine": "EUW",
 			"rewardCandidate": true
 		},
 		{	"name": "Ibai",
 			"summonerName": "Kolmunt78",
-			"tagName": "EUW",
+			"tagLine": "EUW",
 			"rewardCandidate": true
 		},
 		{	"name": "Kosky",
 			"summonerName": "Elmillosky",
-			"tagName": "EUW",
+			"tagLine": "EUW",
 			"rewardCandidate": true
 		},
 		{	"name": "Marcos",
 			"summonerName": "The gdz",
-			"tagName": "EUW",
+			"tagLine": "EUW",
 			"rewardCandidate": false
 		},
 		{	"name": "Moshto",
 			"summonerName": "El Moco de Paz",
-			"tagName": "EUW",
+			"tagLine": "EUW",
 			"rewardCandidate": true
 		},
 		{	"name": "Paz",
 			"summonerName": "EkkotheEgo",
-			"tagName": "EGOQ",
+			"tagLine": "EGOQ",
 			"rewardCandidate": true
 		},
 		{	"name": "Sito",
 			"summonerName": "Garentized Win",
-			"tagName": "5181",
+			"tagLine": "5181",
 			"rewardCandidate": true
 		},
 		{	"name": "Uri",
 			"summonerName": "Ellyssaverse",
-			"tagName": "5980",
+			"tagLine": "5980",
 			"rewardCandidate": false
 		},
 		{	"name": "Meteor",
 			"summonerName": "Pitagoras",
-			"tagName": "frl",
+			"tagLine": "frl",
 			"rewardCandidate": false
 		},
 		{	"name": "Yago",
 			"summonerName": "Fizz ElHumilde",
-			"tagName": "egoq",
+			"tagLine": "egoq",
 			"rewardCandidate": true
 		},
 		{	"name": "Xabi",
 			"summonerName": "EQMrVB6",
-			"tagName": "mrvb6",
+			"tagLine": "mrvb6",
 			"rewardCandidate": true
 		}
 	]
